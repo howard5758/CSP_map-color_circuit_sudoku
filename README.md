@@ -1,6 +1,5 @@
 # Author: Ping-Jung Liu
 # Date: October 14th 2017
-# COSC 76 Assignment 4: Constraints Satisfaction Problems
 # Acknowledgement: Professor Devin Balkom for providing suggestions 
 
 ###README###
